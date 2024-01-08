@@ -9,7 +9,7 @@
   - [Setting CMD to Admin and some fun commands to run.](https://github.com/Nickklein13/CMDadmin-andcommands)
 
 - <b>Microsoft Azure</b>
-  - [Setting up a VM and once-click software setup]((https://github.com/Nickklein13/CreatingVM-andSoftware))
+  - [Setting up a VM and once-click software setup](https://github.com/Nickklein13/CreatingVM-andSoftware)
 
 
 <h2>Connect with me:</h2>
